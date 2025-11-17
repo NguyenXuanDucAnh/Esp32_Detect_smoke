@@ -23,10 +23,7 @@ BlynkTimer timer;
 BlynkTimer timer_send_telegram;
 
 // ===== Telegram Config =====
-// const char* TELEGRAM_BOT_TOKEN = "7975724601:AAFNXsGemexZpX9pD8FFpLKSfuVjLlqwep0";
-// const char* TELEGRAM_CHAT_ID   = "6329195890";
-
-const char* TELEGRAM_BOT_TOKEN = "8559421132: AAEncPtwt0cJ_g4W0eo6Nh1Y8B6vHegIvNE";
+const char* TELEGRAM_BOT_TOKEN = "8559421132:AAEncPtwt0cJ_g4WOeo6Nh1Y8B6vHegIvNE";
 const char* TELEGRAM_CHAT_ID   = "7540158588";
 
 // Telegram requires HTTPS
